@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header" style={{background: 'linear-gradient(135deg, #f5d6ba 0%, #fbeee6 100%)', color: '#2d2d2d'}}>
-        <h1 style={{fontSize: '3rem', marginBottom: '0.5em'}}>Happy Father\'s Day!</h1>
+        <h1 style={{fontSize: '3rem', marginBottom: '0.5em'}}>Happy Father's Day!</h1>
         <p style={{fontSize: '1.5rem', maxWidth: 600, margin: '0 auto 2em'}}>
           To the best dad in the world: Thank you for your endless love, support, and wisdom. You make every day brighter and every challenge easier. We love you!
         </p>
